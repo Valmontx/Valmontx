@@ -16,7 +16,7 @@ Adding value in each of them._
 
 <br>
 
-### Languages & Tolls
+### Languages & tools
 
 ![lenguages2](https://user-images.githubusercontent.com/108588943/219996300-24e947f8-ec9c-474f-918a-b5b6bbf9d497.png)
 <br>
