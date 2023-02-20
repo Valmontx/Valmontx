@@ -19,10 +19,12 @@ Adding value in each of them._
 ### Languages & Tolls
 
 ![lenguages2](https://user-images.githubusercontent.com/108588943/219996300-24e947f8-ec9c-474f-918a-b5b6bbf9d497.png)
+<br>
 ---
 
 ### My stats 📈
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valmontx&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+<br>
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valmontx&show_icons=true&theme=radical)
