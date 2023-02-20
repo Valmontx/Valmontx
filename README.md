@@ -22,9 +22,8 @@ Adding value in each of them._
 ### Languages & tools
 
 ![lenguages2-removebg-preview](https://user-images.githubusercontent.com/108588943/220025721-553f3436-0bfa-490e-849b-9a3e02cf59b7.png)
-
-<br>
 ---
+
 
 ### My stats 📈
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valmontx&theme=dark&hide_border=true)](https://git.io/streak-stats) 
