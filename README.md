@@ -6,9 +6,10 @@
 
 - 🔭 Working on **Javascrit, HTML5, CSS, frameworks, Git**
 - 🌱 I’m currently learning Node.js
-- 📫 How to reach me: [valeryevnam.h@gmail.com](url)
+- 📫 How to reach me:  send me message [valeryevnam.h@gmail.com](url)
 - 💄 Hobbie: Makeup Artist
 
 ### Lenguages & Tolls
 
-![5847f5bdcef1014c0b5e489c |15px](https://user-images.githubusercontent.com/108588943/219990867-4f02cf8d-618b-4e59-b44e-fb1af711043f.png)
+![lenguages2](https://user-images.githubusercontent.com/108588943/219996300-24e947f8-ec9c-474f-918a-b5b6bbf9d497.png)
+---
