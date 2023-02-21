@@ -21,7 +21,9 @@ Adding value in each of them._
 
 ### Languages & tools
 
-![lenguages2-removebg-preview](https://user-images.githubusercontent.com/108588943/220025721-553f3436-0bfa-490e-849b-9a3e02cf59b7.png)
+![lenguages png1](https://user-images.githubusercontent.com/108588943/220473863-088ebefc-8966-49f2-ad58-b88827a94005.png)
+
+
 ---
 
 
