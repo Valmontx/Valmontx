@@ -1,4 +1,4 @@
-                                                           Hi i'm Valmont 👩‍💻👋
+                                                         
 
 ![Pink Black Boho Minimalist Luxury Wedding Planner LinkedIn Banner (1)](https://user-images.githubusercontent.com/108588943/220026526-1643395e-6ae9-417a-91db-cbfb217750ef.png)
 
@@ -19,9 +19,6 @@ Adding value in each of them._
 
 <br>
 
-### Languages & tools
-
-![lenguages png1](https://user-images.githubusercontent.com/108588943/220473863-088ebefc-8966-49f2-ad58-b88827a94005.png)
 
 
 ---
