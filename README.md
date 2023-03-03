@@ -1,6 +1,6 @@
                                                          
+![Pink Black Boho Minimalist Luxury Wedding Planner LinkedIn Banner (4)](https://user-images.githubusercontent.com/108588943/222773549-23a24303-c119-4df5-b4d0-c6b405993ec7.png)
 
-![Pink Black Boho Minimalist Luxury Wedding Planner LinkedIn Banner (1)](https://user-images.githubusercontent.com/108588943/220026526-1643395e-6ae9-417a-91db-cbfb217750ef.png)
 
 
 ---
