@@ -7,7 +7,7 @@
 
 
 
-### About me 
+### About me 🔖
 
 _Front end web developer from Peru 🇵🇪_
 
@@ -25,7 +25,7 @@ _With a lot of emotion and dedication, I create dynamic web content adding imagi
 
 
 
-### My Tools
+### My Tools ⚙️💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScipt-yellow) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-green) ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen) ![React](https://img.shields.io/badge/-React-blue) ![Git](https://img.shields.io/badge/-Git-red) ![Firebase](https://img.shields.io/badge/-Firebase-yellow) ![Figma](https://img.shields.io/badge/-Figma-pink)
 ![jest](https://img.shields.io/badge/-Jest-red)
