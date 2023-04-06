@@ -1,30 +1,34 @@
                                                          
 
 
-![Pink Black Boho Minimalist Luxury Wedding Planner LinkedIn Banner (1)](https://user-images.githubusercontent.com/108588943/230465018-ca89c6cb-fafe-4988-87b8-a98895315c14.png)
-
+                                                          Hi! I'm Valmont 🌸
+![giphy](https://user-images.githubusercontent.com/108588943/230480394-954e0943-ea3f-42f1-9342-30b09ba020ef.gif)
 
 ---
 
 ### About me 
 
-_I'm Peruvian front-end developer and I'm passionate about creating content on a web site. <br>
-Adding value in each of them._
+_Front end web developer from Peru 🇵🇪_
+
+_With a lot of emotion and dedication, I create dynamic web content adding imagination and value in each process._
 
 <br>
 
-- 🔭 Working with: **React**
+- 🔭 Working with: **React** for Project Burger Queen Api Client
 - 🌱 I’m currently learning: **UX-UI**
-- 📫 How to reach me:  send me message [valeryevnam.h@gmail.com](url)
-- 💄 Hobbie: **Makeup Artist**
+- 📫 How to reach me:  send me message 📩 [valeryevnam.h@gmail.com](url)
+- 💄 Hobbie: **Makeup Artist & Desing**
+- 🏋️‍♀️ Rutine: **Gym**
 
 <br>
 
 
+
+### My Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScipt-yellow) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-green) ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen) ![React](https://img.shields.io/badge/-React-blue) ![Git](https://img.shields.io/badge/-Git-red) ![Firebase](https://img.shields.io/badge/-Firebase-yellow) ![Figma](https://img.shields.io/badge/-Figma-pink)
 
 ---
-
-
 ### My stats 📈
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valmontx&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 <br>
