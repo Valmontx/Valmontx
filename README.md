@@ -9,9 +9,11 @@
 
 ### About me 🔖
 
-_Front end web developer from Peru 🇵🇪_
+_Front end web developer from Peru_
 
 _With a lot of emotion and dedication, I create dynamic web content adding imagination and value in each process._
+<br>
+_My goal: To be able to generate great interest and trust in the brand._
 
 <br>
 
