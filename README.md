@@ -14,7 +14,7 @@ Adding value in each of them._
 <br>
 
 - 🔭 Working with: **React**
-- 🌱 I’m currently learning: **UX-IU**
+- 🌱 I’m currently learning: **UX-UI**
 - 📫 How to reach me:  send me message [valeryevnam.h@gmail.com](url)
 - 💄 Hobbie: **Makeup Artist**
 
