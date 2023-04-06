@@ -1,6 +1,7 @@
                                                          
 
-![Pink Black Boho Minimalist Luxury Wedding Planner LinkedIn Banner](https://user-images.githubusercontent.com/108588943/225769591-e3343c94-7568-44ac-9063-ee65e81d5b85.png)
+
+![Pink Black Boho Minimalist Luxury Wedding Planner LinkedIn Banner (1)](https://user-images.githubusercontent.com/108588943/230465018-ca89c6cb-fafe-4988-87b8-a98895315c14.png)
 
 
 ---
@@ -12,8 +13,8 @@ Adding value in each of them._
 
 <br>
 
-- 🔭 Working with **Javascrit, HTML5, CSS, Git**
-- 🌱 I’m currently learning **Node.js**
+- 🔭 Working with: **React**
+- 🌱 I’m currently learning: **UX-IU**
 - 📫 How to reach me:  send me message [valeryevnam.h@gmail.com](url)
 - 💄 Hobbie: **Makeup Artist**
 
