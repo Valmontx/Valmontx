@@ -1,10 +1,11 @@
                                                          
 
 
-                                                          Hi! I'm Valmont 🌸
+                                                             Hi!  I'm 
+                                                 V a l e r i a   M o n t e r o 💻
 ![giphy](https://user-images.githubusercontent.com/108588943/230480394-954e0943-ea3f-42f1-9342-30b09ba020ef.gif)
 
----
+
 
 ### About me 
 
@@ -14,7 +15,7 @@ _With a lot of emotion and dedication, I create dynamic web content adding imagi
 
 <br>
 
-- 🔭 Working with: **React** for Project Burger Queen Api Client
+- 🔭 Working with: **React for Project Burger Queen Api Client**
 - 🌱 I’m currently learning: **UX-UI**
 - 📫 How to reach me:  send me message 📩 [valeryevnam.h@gmail.com](url)
 - 💄 Hobbie: **Makeup Artist & Desing**
