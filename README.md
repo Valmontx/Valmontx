@@ -19,7 +19,7 @@ _My goal: To be able to generate great interest and trust in the brand._
 
 - 🔭 Working with: **React for Project Burger Queen Api Client**
 - 🌱 I’m currently learning: **UX-UI**
-- 📫 How to reach me:  send me message 📩 [valeryevnam.h@gmail.com](url)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dev-valmont/)
 - 💄 Hobbie: **Makeup Artist & Desing**
 - 🏋️‍♀️ Rutine: **Gym**
 
