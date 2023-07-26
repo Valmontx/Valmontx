@@ -17,7 +17,7 @@ _My goal: To be able to generate great interest and trust in the brand._
 
 <br>
 
-- 🔭 Working with: **React for Project Burger Queen Api Client**
+- 🔭 Working with: **React for project personal**
 - 🌱 I’m currently learning: **UX-UI**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dev-valmont/)
 - 💄 Hobbie: **Makeup Artist & Desing**
